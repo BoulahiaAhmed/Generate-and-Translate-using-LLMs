@@ -8,7 +8,7 @@ We will focus on two powerful models, **Gemma-7b** and **Llama3-8b**, and walk t
 
 **1- Dataset Creation**: How to gather and prepare the data necessary for fine-tuning. 
 
-**2-  Creation**: Crafting effective prompts to guide the models in performing the desired tasks.
+**2- Prompt Creation**: Crafting effective prompts to guide the models in performing the desired tasks.
 
 **3- Model Fine-Tuning**: Using Unsloth AI to fine-tune our models specifically for summarization and title generation. 
 
