@@ -6,8 +6,10 @@ We will explore the process of fine-tuning large language models (LLMs) for a sp
 
 We will focus on two powerful models, **Gemma-7b** and **Llama3-8b**, and walk through each step required to achieve this task. 
 
-**Dataset Creation**: How to gather and prepare the data necessary for fine-tuning. 
-**Prompt Creation**: Crafting effective prompts to guide the models in performing the desired tasks.
-**Model Fine-Tuning**: Using Unsloth AI to fine-tune our models specifically for summarization and title generation. 
+**1- Dataset Creation**: How to gather and prepare the data necessary for fine-tuning. 
+
+**2-  Creation**: Crafting effective prompts to guide the models in performing the desired tasks.
+
+**3- Model Fine-Tuning**: Using Unsloth AI to fine-tune our models specifically for summarization and title generation. 
 
 By the end, you will have a clear understanding of how to adapt these LLMs to perform task-oriented applications, leveraging their capabilities to produce meaningful outputs in a different language. Let’s get started!
