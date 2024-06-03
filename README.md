@@ -12,4 +12,9 @@ We will focus on two powerful models, **Gemma-7b** and **Llama3-8b**, and walk t
 
 **3- Model Fine-Tuning**: Using Unsloth AI to fine-tune our models specifically for summarization and title generation. 
 
+
+Our Dataset for this task: AhmedBou/EngText-ArabicSummary
+Finetuned Model's link: AhmedBou/Llama-3-EngText-ArabicSummary
+
+
 By the end, you will have a clear understanding of how to adapt these LLMs to perform task-oriented applications, leveraging their capabilities to produce meaningful outputs in a different language. Let’s get started!
